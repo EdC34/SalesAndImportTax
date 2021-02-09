@@ -28,7 +28,8 @@ namespace SalesAndImportTax
                 fullBasePrice += fee.CalculateFee(BasePrice);
             }
             return fullBasePrice;
-
         }
+        
+
     }
 }
