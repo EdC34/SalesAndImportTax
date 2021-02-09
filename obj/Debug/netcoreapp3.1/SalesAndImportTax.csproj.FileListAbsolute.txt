@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\SalesAndImportTax\obj\Debug\netcoreapp3.1\SalesAndImportTax.csprojAssemblyReference.cache
+C:\Users\student\source\repos\SalesAndImportTax\obj\Debug\netcoreapp3.1\SalesAndImportTax.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\SalesAndImportTax\obj\Debug\netcoreapp3.1\SalesAndImportTax.AssemblyInfo.cs
+C:\Users\student\source\repos\SalesAndImportTax\obj\Debug\netcoreapp3.1\SalesAndImportTax.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\SalesAndImportTax\bin\Debug\netcoreapp3.1\SalesAndImportTax.exe
+C:\Users\student\source\repos\SalesAndImportTax\bin\Debug\netcoreapp3.1\SalesAndImportTax.deps.json
+C:\Users\student\source\repos\SalesAndImportTax\bin\Debug\netcoreapp3.1\SalesAndImportTax.runtimeconfig.json
+C:\Users\student\source\repos\SalesAndImportTax\bin\Debug\netcoreapp3.1\SalesAndImportTax.runtimeconfig.dev.json
+C:\Users\student\source\repos\SalesAndImportTax\bin\Debug\netcoreapp3.1\SalesAndImportTax.dll
+C:\Users\student\source\repos\SalesAndImportTax\bin\Debug\netcoreapp3.1\SalesAndImportTax.pdb
+C:\Users\student\source\repos\SalesAndImportTax\obj\Debug\netcoreapp3.1\SalesAndImportTax.dll
+C:\Users\student\source\repos\SalesAndImportTax\obj\Debug\netcoreapp3.1\SalesAndImportTax.pdb
+C:\Users\student\source\repos\SalesAndImportTax\obj\Debug\netcoreapp3.1\SalesAndImportTax.genruntimeconfig.cache
