@@ -6,7 +6,17 @@ namespace SalesAndImportTax
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Program prog = new Program();
+            prog.menu();
         }
+
+        public void menu()
+        {
+            string men1;
+            string name;
+
+        }
+
+
     }
 }
